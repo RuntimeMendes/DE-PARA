@@ -17,7 +17,7 @@
          <script src="js/mensagem.js"></script>
 
 
-	 <!-- Custom styles for this template -->
+	 <!-- Custom styles for this template-->
 		<script src="DataTable/jQuery-1.12.3/jquery.min.js"></script>			
             <script src="DataTable/DataTables-1.10.16/js/jquery.dataTables.min.js"></script>
 			<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.quicksearch/2.3.1/jquery.quicksearch.js"></script>
