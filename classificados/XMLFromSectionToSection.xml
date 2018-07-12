@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sectiontosection_configuration>
+	<!-- Veículos -->  
+
+
+    
+	
+	<field name="SECTION" source="VEÍCULOS;AUDI;A3 SPORTBACK" destination="Veiculos;Audi;A3"/>
+	<field name="SECTION" source="VEÍCULOS;AUDI;A4 AMBIENTE" destination="Veiculos;Audi;A4"/>
+	<field name="SECTION" source="VEÍCULOS;AUDI;A4 LAUNCH EDITION" destination="Veiculos;Audi;A4"/>
+	<field name="SECTION" source="VEÍCULOS;AUDI;TT" destination="Veiculos;Audi;TT"/>
+	<field name="SECTION" source="VEÍCULOS;BMW;320IA" destination="Veiculos;Bmw;320"/>
+	<field name="SECTION" source="VEÍCULOS;BMW;X1 SDRIVE 18I" destination="Veiculos;Bmw;X1"/>
+	<field name="SECTION" source="VEÍCULOS;BMW;X1 SDRIVE 20I" destination="Veiculos;Bmw;X1"/>
+	<field name="SECTION" source="VEÍCULOS;BMW;X6 M" destination="Veiculos;Bmw;X6"/>
+	<field name="SECTION" source="VEÍCULOS;BMW;X6 XDRIVE 35I" destination="Veiculos;Bmw;X6"/>
+	<field name="SECTION" source="VEÍCULOS;CHEVROLET;CAMARO SS" destination="Veiculos;Chevrolet;Camaro"/>
+	<field name="SECTION" source="VEÍCULOS;CHEVROLET;CAPTIVA SPORT" destination="Veiculos;Chevrolet;Captiva"/>
+	<field name="SECTION" source="VEÍCULOS;CHEVROLET;CELTA LIFE/ LS" destination="Veiculos;Chevrolet;Celta"/>
+	<field name="SECTION" source="VEÍCULOS;CHEVROLET;COBALT LT" destination="Veiculos;Chevrolet;Cobalt"/>
+	<field name="SECTION" source="VEÍCULOS;CHEVROLET;ONIX" destination="Veiculos;Chevrolet;Onix"/>
+	<field name="SECTION" source="VEÍCULOS;CHEVROLET;PRISMA SED. JOY" destination="Veiculos;Chevrolet;Prisma"/>
+	<field name="SECTION" source="VEÍCULOS;CHEVROLET;PRISMA SED. LT" destination="Veiculos;Chevrolet;Prisma"/>
+	<field name="SECTION" source="VEÍCULOS;CHEVROLET;PRISMA SED. MAXX/ LT" destination="Veiculos;Chevrolet;Prisma"/>
+	<field name="SECTION" source="VEÍCULOS;CHEVROLET;S10" destination="Veiculos;Chevrolet;S10"/>
+	<field name="SECTION" source="VEÍCULOS;CHEVROLET;SPIN ADVANTAGE" destination="Veiculos;Chevrolet;Spin"/>
+	<field name="SECTION" source="VEÍCULOS;CHEVROLET;ZAFIRA EXPRES." destination="Veiculos;Chevrolet;Zafira"/>
+	<field name="SECTION" source="VEÍCULOS;CITROËN;AIRCROSS TENDANCE" destination="Veiculos;Citroën;Aircross"/>
+	<field name="SECTION" source="VEÍCULOS;CITROËN;C3 ATTRACTION PURE TECH" destination="Veiculos;Citroën;C3"/>
+	<field name="SECTION" source="VEÍCULOS;CITROËN;C3 EXCL." destination="Veiculos;Citroën;C3"/>
+	<field name="SECTION" source="VEÍCULOS;CITROËN;C3 EXCLUSIVE" destination="Veiculos;Citroën;C3"/>
+	<field name="SECTION" source="VEÍCULOS;CITROËN;C3 PICASSO GLX" destination="Veiculos;Citroën;C3"/>
+	<field name="SECTION" source="VEÍCULOS;CITROËN;C4 LOUNGE ORIGINE" destination="Veiculos;Citroën;C4"/>
+	<field name="SECTION" source="VEÍCULOS;FIAT;FIORINO FURG." destination="Veiculos;Fiat;Fiorino"/>
+	<field name="SECTION" source="VEÍCULOS;FIAT;GRAND SIENA ATTRAC.       *" destination="Veiculos;Fiat;Grand Siena"/>
+	<field name="SECTION" source="VEÍCULOS;FIAT;GRAND SIENA ESSENCE DUAL." destination="Veiculos;Fiat;Grand Siena"/>
+	<field name="SECTION" source="VEÍCULOS;FIAT;GRAND SIENA" destination="Veiculos;Fiat;Grand Siena"/>
+	<field name="SECTION" source="VEÍCULOS;FIAT;PALIO ATTRACTIVE" destination="Veiculos;Fiat;Palio"/>
+	<field name="SECTION" source="VEÍCULOS;FIAT;PALIO CELEBRATION" destination="Veiculos;Fiat;Palio"/>
+	<field name="SECTION" source="VEÍCULOS;FIAT;SIENA EL" destination="Veiculos;Fiat;Siena"/>
+	<field name="SECTION" source="VEÍCULOS;FIAT;SIENA ELX" destination="Veiculos;Fiat;Siena"/>
+	<field name="SECTION" source="VEÍCULOS;FIAT;STRADA ADVENTURE1.8/" destination="Veiculos;Fiat;Strada"/>
+	<field name="SECTION" source="VEÍCULOS;FIAT;UNO VIVACE CELEB." destination="Veiculos;Fiat;Uno"/>
+	<field name="SECTION" source="VEÍCULOS;FIAT;UNO WAY CELEB." destination="Veiculos;Fiat;Uno"/>
+	<field name="SECTION" source="VEÍCULOS;FIAT;PUNTO ESSENCE" destination="Veiculos;Fiat;Punto"/>
+	<field name="SECTION" source="VEÍCULOS;FORD;ECOSPORT FREESTYLE" destination="Veiculos;Ford;Ecosport"/>
+	<field name="SECTION" source="VEÍCULOS;FORD;ECOSPORT XLT FREESTYLE" destination="Veiculos;Ford;Ecosport"/>
+	<field name="SECTION" source="VEÍCULOS;FORD;FIESTA SE" destination="Veiculos;Ford;Fiesta"/>
+	<field name="SECTION" source="VEÍCULOS;FORD;FOCUS FASTBACK" destination="Veiculos;Ford;Focus"/>
+	<field name="SECTION" source="VEÍCULOS;FORD;FUSION TITANIUM" destination="Veiculos;Ford;Fusion"/>
+	<field name="SECTION" source="VEÍCULOS;FORD;RANGER LIMITED" destination="Veiculos;Ford;Ranger"/>
+	<field name="SECTION" source="VEÍCULOS;FORD;RANGER XLS/XL" destination="Veiculos;Ford;Ranger"/>
+	<field name="SECTION" source="VEÍCULOS;FORD;RANGER XLT" destination="Veiculos;Ford;Ranger"/>
+	<field name="SECTION" source="VEÍCULOS;HONDA;CIVIC SEDAN LXL/ LXL SE" destination="Veiculos;Honda;Civic"/>
+	<field name="SECTION" source="VEÍCULOS;HONDA;CIVIC SEDAN LXR" destination="Veiculos;Honda;Civic"/>
+	<field name="SECTION" source="VEÍCULOS;HONDA;CR-V LX" destination="Veiculos;Honda;CR-V"/>
+	<field name="SECTION" source="VEÍCULOS;HONDA;CRV" destination="Veiculos;Honda;CR-V"/>
+	<field name="SECTION" source="VEÍCULOS;HONDA;FIT LX" destination="Veiculos;Honda;Fit"/>
+	<field name="SECTION" source="VEÍCULOS;HONDA;FIT LXL" destination="Veiculos;Honda;Fit"/>
+	<field name="SECTION" source="VEÍCULOS;HYUNDAI;HB20 C./C.PLUS/C.STYLE" destination="Veiculos;Hyundai;HB20"/>
+	<field name="SECTION" source="VEÍCULOS;HYUNDAI;HB20 COMF./C.PLUS/C.STYLE" destination="Veiculos;Hyundai;HB20"/>
+	<field name="SECTION" source="VEÍCULOS;JAC;J3" destination="Veiculos;JAC Motors;J3"/>
+	<field name="SECTION" source="VEÍCULOS;JEEP;RENEGADE LONGITUDE" destination="Veiculos;Jeep;Renegade Sport"/>
+	<field name="SECTION" source="VEÍCULOS;JEEP;RENEGADE TRAILHAWK" destination="Veiculos;Jeep;Renegade Sport"/>
+	<field name="SECTION" source="VEÍCULOS;KIA MOTORS;SPORTAGE EX" destination="Veiculos;Kia Motors;Sportage"/>
+	<field name="SECTION" source="VEÍCULOS;LAND ROVER;DISCOVERY SPORT" destination="Veiculos;Land Rover;Discovery"/>
+	<field name="SECTION" source="VEÍCULOS;LAND ROVER;DISCOVERY4 HSE" destination="Veiculos;Land Rover;Discovery"/>
+	<field name="SECTION" source="VEÍCULOS;LAND ROVER;DISCOVERY4 S" destination="Veiculos;Land Rover;Discovery"/>
+	<field name="SECTION" source="VEÍCULOS;LAND ROVER;DISCOVERY4 SE" destination="Veiculos;Land Rover;Discovery"/>
+	<field name="SECTION" source="VEÍCULOS;LAND ROVER;FREELANDER2 SE" destination="Veiculos;Land Rover;Freelander2 SE"/>
+	<field name="SECTION" source="VEÍCULOS;LAND ROVER;RANGE ROVER EVOQUE PURE TECH" destination="Veiculos;Land Rover;Ranger Rover - Evoque"/>
+	<field name="SECTION" source="VEÍCULOS;LAND ROVER;RANGE ROVER EVOQUE PURE" destination="Veiculos;Land Rover;Ranger Rover - Evoque"/>
+	<field name="SECTION" source="VEÍCULOS;LAND ROVER;RANGE ROVER EVOQUE" destination="Veiculos;Land Rover;Ranger Rover - Evoque"/>
+	<field name="SECTION" source="VEÍCULOS;LAND ROVER;RANGE ROVER SPORT" destination="Veiculos;Land Rover;Ranger Rover"/>
+	<field name="SECTION" source="VEÍCULOS;LAND ROVER;RANGE ROVER VOGUE" destination="Veiculos;Land Rover;Ranger Rover"/>
+	<field name="SECTION" source="VEÍCULOS;MERCEDES-BENZ;ATRON 1635 S 2P (DIESEL) (E5)" destination="Veiculos;Mercedes-Benz;Atron 1635 S 2p (Diesel) (E5)"/>
+	<field name="SECTION" source="VEÍCULOS;MERCEDES-BENZ;C-180 CGI AVANTGARDE" destination="Veiculos;Mercedes-Benz;C-180"/>
+	<field name="SECTION" source="VEÍCULOS;MERCEDES-BENZ;C-180 CGI CLASSIC" destination="Veiculos;Mercedes-Benz;C-180"/>
+	<field name="SECTION" source="VEÍCULOS;MERCEDES-BENZ;CLASSE A 200" destination="Veiculos;Mercedes-Benz;Classe A"/>
+	<field name="SECTION" source="VEÍCULOS;MERCEDES-BENZ;SLK-250 CGI" destination="Veiculos;Mercedes-Benz;SLK"/>
+	<field name="SECTION" source="VEÍCULOS;MITSUBISHI;L200 TRITON HLS" destination="Veiculos;Mitsubishi;L200"/>
+	<field name="SECTION" source="VEÍCULOS;NISSAN;FRONTIER LE CD 4X4" destination="Veiculos;Nissan;Frontier"/>
+	<field name="SECTION" source="VEÍCULOS;NISSAN;MARCH S" destination="Veiculos;Nissan;March"/>
+	<field name="SECTION" source="VEÍCULOS;NISSAN;MARCH SV" destination="Veiculos;Nissan;March"/>
+	<field name="SECTION" source="VEÍCULOS;NISSAN;SENTRA SL" destination="Veiculos;Nissan;Sentra"/>
+	<field name="SECTION" source="VEÍCULOS;MINI;COOPER S" destination="Veículos;Outras Marcas"/>	
+	<field name="SECTION" source="VEÍCULOS;ÔNIBUS E CAMINHÕES;MERCEDES-BENZ;ATRON 1635 S 2P (DIESEL) (E5)" destination="Veículos;Ônibus e Caminhões"/>		
+	<field name="SECTION" source="VEÍCULOS;PEUGEOT;207 SW XR" destination="Veiculos;Peugeot;207"/>
+	<field name="SECTION" source="VEÍCULOS;PEUGEOT;207 XR SPORT" destination="Veiculos;Peugeot;207"/>
+	<field name="SECTION" source="VEÍCULOS;PEUGEOT;207 XR" destination="Veiculos;Peugeot;207"/>
+	<field name="SECTION" source="VEÍCULOS;PEUGEOT;408 SED. BUSINESS" destination="Veiculos;Peugeot;408"/>
+	<field name="SECTION" source="VEÍCULOS;PORSCHE;718 CAYMAN" destination="Veículos;Outras Marcas"/>		
+	<field name="SECTION" source="VEÍCULOS;RENAULT;CLIO CAMPUS HI-FLEX" destination="Veiculos;Renault;Clio"/>
+	<field name="SECTION" source="VEÍCULOS;RENAULT;DUSTER DYNAMIQUE" destination="Veiculos;Renault;Duster"/>
+	<field name="SECTION" source="VEÍCULOS;RENAULT;FLUENCE SED. DYNAMIQUE" destination="Veiculos;Renault;Fluence"/>
+	<field name="SECTION" source="VEÍCULOS;RENAULT;FLUENCE SEDAN DYNAMIQUE" destination="Veiculos;Renault;Fluence"/>
+	<field name="SECTION" source="VEÍCULOS;RENAULT;LOGAN AUTHENTIQUE FLEX" destination="Veiculos;Renault;Logan"/>
+	<field name="SECTION" source="VEÍCULOS;RENAULT;SANDERO AUTHENTIQUE FLEX" destination="Veiculos;Renault;Sandero"/>
+	<field name="SECTION" source="VEÍCULOS;RENAULT;SANDERO EXPRES. EASY R FLEX" destination="Veiculos;Renault;Sandero"/>
+	<field name="SECTION" source="VEÍCULOS;RENAULT;SANDERO EXPRESSION HI-FLEX" destination="Veiculos;Renault;Sandero"/>
+	<field name="SECTION" source="VEÍCULOS;RENAULT;SANDERO EXPRESSION HI-POWER" destination="Veiculos;Renault;Sandero"/>
+	<field name="SECTION" source="VEÍCULOS;RENAULT;SANDERO STEPWAY FLEX" destination="Veiculos;Renault;Sandero"/>
+	<field name="SECTION" source="VEÍCULOS;SUZUKI;JIMNY WIDE/ JIMNY/4ALL" destination="Veiculos;Suzuki;Jimmy"/>
+	<field name="SECTION" source="VEÍCULOS;TOYOTA;COROLLA ALTIS/DYNAMIC" destination="Veiculos;Toyota;Corolla"/>
+	<field name="SECTION" source="VEÍCULOS;TOYOTA;COROLLA GLI" destination="Veiculos;Toyota;Corolla"/>
+	<field name="SECTION" source="VEÍCULOS;TOYOTA;COROLLA XEI" destination="Veiculos;Toyota;Corolla"/>
+	<field name="SECTION" source="VEÍCULOS;TOYOTA;HILUX SW4 SRV D4-D 4X4" destination="Veiculos;Toyota;Hilux"/>
+	<field name="SECTION" source="VEÍCULOS;TROLLER;T-4 4X4" destination="Veiculos;Troller;T-4 4X4"/>
+	<field name="SECTION" source="VEÍCULOS;VOLKSWAGEN;AMAROK SE CD" destination="Veiculos;Volkswagen;Amarok"/>
+	<field name="SECTION" source="VEÍCULOS;VOLKSWAGEN;CROSSFOX I MOTION" destination="Veiculos;Volkswagen;CrossFox"/>
+	<field name="SECTION" source="VEÍCULOS;VOLKSWAGEN;GOL (NOVO) G4/G5/G6/G7" destination="Veiculos;Volkswagen;Gol"/>
+	<field name="SECTION" source="VEÍCULOS;VOLKSWAGEN;GOL 1000 MI 2P / 1000I" destination="Veiculos;Volkswagen;Gol"/>
+	<field name="SECTION" source="VEÍCULOS;VOLKSWAGEN;GOL CL" destination="Veiculos;Volkswagen;Gol"/>
+	<field name="SECTION" source="VEÍCULOS;VOLKSWAGEN;GOLF COMFORTLINE" destination="Veículos;Volkswagen;Golf"/>	
+	<field name="SECTION" source="VEÍCULOS;VOLKSWAGEN;KOMBI LAST EDITION 56" destination="Veiculos;Volkswagen;Kombi"/>
+	<field name="SECTION" source="VEÍCULOS;VOLKSWAGEN;KOMBI STANDARD" destination="Veiculos;Volkswagen;Kombi"/>
+	<field name="SECTION" source="VEÍCULOS;VOLKSWAGEN;GOL TRACK" destination="Veiculos;Volkswagen;Gol"/>
+	<field name="SECTION" source="VEÍCULOS;VOLKSWAGEN;GOLF GTI" destination="Veiculos;Volkswagen;Golf"/>
+	<field name="SECTION" source="VEÍCULOS;VOLVO;XC 60" destination="Veiculos;Volvo;XC60"/>	
+	<field name="SECTION" source="VEÍCULOS;FIAT;GRAND SIENA ATTRAC." destination="Veiculos;Fiat;Grand Siena"/>
+	<field name="SECTION" source="VEÍCULOS;NISSAN;VERSA" destination="Veiculos;Nissan;Versa"/>
+	<field name="SECTION" source="VEÍCULOS;PEUGEOT;308 FELINE" destination="Veiculos;Peugeot;308"/>
+	<field name="SECTION" source="VEÍCULOS;KIA MOTORS;SORENTO EX" destination="Veiculos;Kia Motors;Sorento"/>
+	<field name="SECTION" source="VEÍCULOS;LAND ROVER;RANGE ROVER EVOQUE DYNAMIC" destination="Veiculos;Land Rover;Ranger Rover"/>
+	<field name="SECTION" source="VEÍCULOS;BMW;528I/IA" destination="Veiculos;Bmw;528"/>
+	<field name="SECTION" source="VEÍCULOS;CHEVROLET;ONIX HATCH LT" destination="Veiculos;Chevrolet;Onix"/>
+	<field name="SECTION" source="VEÍCULOS;FIAT;MOBI LIKE" destination="Veiculos;Fiat;Outros Modelos"/>
+	<field name="SECTION" source="VEÍCULOS;HONDA;CR-V EXL" destination="Veiculos;Honda;CR-V"/>
+	<field name="SECTION" source="VEÍCULOS;HONDA;CIVIC SED. LXL/ LXL SE" destination="Veiculos;Honda;Civic"/>
+	<field name="SECTION" source="VEÍCULOS;RENAULT;LOGAN DYNAMIQUE HI-FLEX" destination="Veiculos;Renault;Logan"/>
+	<field name="SECTION" source="VEÍCULOS;CHEVROLET;AGILE LTZ" destination="Veiculos;Chevrolet;Agile"/>
+	<field name="SECTION" source="VEÍCULOS;CHEVROLET;CRUZE LT" destination="Veiculos;Chevrolet;Cruze"/>
+	<field name="SECTION" source="VEÍCULOS;VOLKSWAGEN;SAVEIRO SURF" destination="Veiculos;Volkswagen;Saveiro"/>
+	<field name="SECTION" source="VEÍCULOS;MOTOS;HARLEY-DAVIDSON;FAT BOY FLSTF" destination="Veiculos;Motos;Harley Davidson;FAT BOY FLSTF"/>
+	
+	<!-- Imóveis -->
+	<!-- Aluguel -->
+	<field name="SECTION" source="IMÓVEIS;VENDEM-SE;COBERTURA" destination="IMÓVEIS;VENDEM-SE;Apartamentos"/>
+	<field name="SECTION" source="IMÓVEIS;VENDEM-SE;TERRENO" destination="IMÓVEIS;Terrenos"/>
+	<field name="SECTION" source="IMÓVEIS;VENDEM-SE;TERRENOS" destination="IMÓVEIS;Terrenos"/>
+	<field name="SECTION" source="IMÓVEIS;VENDEM-SE;ÁREA" destination="IMÓVEIS;VENDEM-SE;Comerciais"/>
+	<field name="SECTION" source="IMÓVEIS;VENDEM-SE;VILLAGE" destination="IMÓVEIS;VENDEM-SE;Condomínios"/>
+	<field name="SECTION" source="IMÓVEIS;VENDEM-SE;BARRACÃO" destination="IMÓVEIS;VENDEM-SE;Comerciais"/>  
+	<field name="SECTION" source="IMÓVEIS;VENDEM-SE;CHÁCARA" destination="IMÓVEIS;Chácaras, Sítios e Fazendas"/>
+	<field name="SECTION" source="IMÓVEIS;VENDEM-SE;RESIDENCIAL / HARAS" destination="IMÓVEIS;Chácaras, Sítios e Fazendas"/>  
+	<field name="SECTION" source="IMÓVEIS;VENDEM-SE;CHÁCARAS, SÍTIOS E FAZENDAS" destination="IMÓVEIS;Chácaras, Sítios e Fazendas"/>
+	<field name="SECTION" source="IMÓVEIS;VENDEM-SE;CASAS;CENTRO" destination="IMÓVEIS;VENDEM-SE;CASAS;CENTRO"/>
+	<!--<field name="SECTION" source="IMÓVEIS;VENDEM-SE;Apartamentos;BOA VIAGEM" destination="IMÓVEIS;VENDEM-SE;Apartamentos"/>-->
+	<field name="SECTION" source="IMÓVEIS;VENDEM-SE;Flats;BOA VIAGEM" destination="Imóveis;Vendem-se;Flats"/>
+	 
+	<!-- Compra e Venda -->
+	
+	<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;COBERTURA" destination="IMÓVEIS;ALUGAM-SE;Apartamentos"/>
+	<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;TERRENO" destination="IMÓVEIS;Terrenos"/>
+	<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;TERRENOS" destination="IMÓVEIS;Terrenos"/>
+	<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;TEMPORADA" destination="IMÓVEIS;Temporada"/>
+	<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;BARRACÃO" destination="IMÓVEIS;ALUGAM-SE;Comerciais"/>
+	<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;VILLAGE" destination="IMÓVEIS;ALUGAM-SE;Condomínios"/>
+	<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;CHÁCARA" destination="IMÓVEIS;Chácaras, Sítios e Fazendas"/>
+	<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;RESIDENCIAL / HARAS" destination="IMÓVEIS;Chácaras, Sítios e Fazendas"/>
+	<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;CHÁCARAS, SÍTIOS E FAZENDAS" destination="IMÓVEIS;Chácaras, Sítios e Fazendas"/>
+	<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;RESIDENCIAL / CASA" destination="IMÓVEIS;ALUGAM-SE;Casas"/>
+	<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Pontos;BOA VIAGEM" destination="IMÓVEIS;ALUGAM-SE;Comerciais"/>
+<field name="SECTION" source="IMÓVEIS;VENDEM-SE;Apartamentos;PORTO DE GALINHAS" destination="IMÓVEIS;VENDEM-SE;Apartamentos"/>
+<field name="SECTION" source="IMÓVEIS;VENDEM-SE;Casas;BARRA DE SIRINHAÉM" destination="IMÓVEIS;ALUGAM-SE;Casas"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;APARTAMENTO DUPLEX;PAISSANDU" destination="IMÓVEIS;VENDEM-SE;Apartamentos"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;FLAT;BOA VIAGEM 1 OU 2 QUARTOS" destination="Imóveis;Vendem-se;Flats"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;ANDAR CORPORATIVO;BOA VIAGEM 1 OU 2 QUARTOS" destination="IMÓVEIS;VENDEM-SE;Comerciais"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Apartamentos;SANCHO" destination="IMÓVEIS;ALUGAM-SE;Apartamentos"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Apartamentos;MURIBARA" destination="IMÓVEIS;VENDEM-SE;Apartamentos"/>
+<field name="SECTION" source="IMÓVEIS;VENDEM-SE;Pontos;TAMARINEIRA" destination="IMÓVEIS;ALUGAM-SE;Comerciais"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Apartamentos;RECIFE" destination="IMÓVEIS;VENDEM-SE;Apartamentos"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;APARTAMENTOS;DOIS CARNEIROS" destination="IMÓVEIS;ALUGAM-SE;Apartamentos"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Apartamentos;SANTANA" destination="IMÓVEIS;ALUGAM-SE;Apartamentos"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Pontos;PINA" destination="Imóveis;Apartamentos Alugam-se;Cavaleiro"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Pontos;PINA" destination="Imóveis;Apartamentos Alugam-se;Cavaleiro"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Pontos;PINA" destination="Imóveis;Apartamentos Alugam-se;Cavaleiro"/>
+<field name="SECTION" source="IMÓVEIS;VENDEM-SE;Flats;BOA VIAGEM 1 OU 2 QUARTOS" destination="Imóveis;Apartamentos Alugam-se;Cabanga"/>
+
+
+
+
+
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Apartamentos;CENTRO" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;CASAS;ARTUR LUNDGREN L" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Casas;CENTRO" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Casas;ENSEADA" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Casas;ITAMARACÁ" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;CASAS;LOTEAMENTO NOSSA SENHORA DE FÁTIMA" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Casas;RIACHO DO MEL" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Casas;SOLEDADE" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Casas;SÍTIO NOVO" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;COMERCIAIS;BOA VIAGEM 1 OU 2 QUARTOS" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;COMERCIAIS;ESPINHEIRO" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;COMERCIAIS;ILHA DO LEITE" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;COMERCIAIS;IMBIRIBEIRA" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;COMERCIAIS;TAMARINEIRA" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;FLAT;CANDEIAS" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;FLAT;GRAÇAS" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Flats;BOA VIAGEM 1 OU 2 QUARTOS" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Flats;CASA AMARELA" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Flats;CENTRO" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;GALPÃO;ARRUDA" destination=""/>
+<field name="SECTION" source="" destination="teste"/>
+<field name="SECTION" source="" destination="budega"/>
+<field name="SECTION" source="" destination=""/>
+<field name="SECTION" source="" destination=""/>
+<field name="SECTION" source="" destination=""/>
+<field name="SECTION" source="" destination=""/>
+<field name="SECTION" source="" destination=""/>
+<field name="SECTION" source="" destination=""/>
+<field name="SECTION" source="" destination=""/>
+<field name="SECTION" source="" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;GALPÃO;ZUMBI" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;AFOGADOS" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;BAIRRO NOVO" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;BEBERIBE" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;BOA VIAGEM 1 OU 2 QUARTOS" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;CENTRO" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;COELHOS" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;IBURA" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;ILHA DO LEITE" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;IMBIRIBEIRA" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;GALPÃO;ZUMBI"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;AFOGADOS"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;BAIRRO NOVO"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;BEBERIBE"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;BOA VIAGEM 1 OU 2 QUARTOS"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;CENTRO"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;COELHOS"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;IBURA"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;ILHA DO LEITE"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;IMBIRIBEIRA"/>
+<field name="SECTION" destination="teste ricardo"/>
+<field name="SECTION" destination="teste ricardo dois"/>
+<field name="SECTION" destination=""/>
+<field name="SECTION" destination=""/>
+<field name="SECTION" destination=""/>
+<field name="SECTION" destination=""/>
+<field name="SECTION" destination=""/>
+<field name="SECTION" destination=""/>
+<field name="SECTION" destination=""/>
+<field name="SECTION" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;GALPÃO;ZUMBI"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;AFOGADOS"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;BAIRRO NOVO"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;BEBERIBE"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;BOA VIAGEM 1 OU 2 QUARTOS"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;CENTRO"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;COELHOS"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;IBURA"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;ILHA DO LEITE"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;IMBIRIBEIRA"/>
+<field name="SECTION" destination="teste ricardo"/>
+<field name="SECTION" destination="teste ricardo dois"/>
+<field name="SECTION" destination=""/>
+<field name="SECTION" destination=""/>
+<field name="SECTION" destination=""/>
+<field name="SECTION" destination=""/>
+<field name="SECTION" destination=""/>
+<field name="SECTION" destination=""/>
+<field name="SECTION" destination=""/>
+<field name="SECTION" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;GALPÃO;ZUMBI"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;AFOGADOS"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;BAIRRO NOVO"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;BEBERIBE"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;BOA VIAGEM 1 OU 2 QUARTOS"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;CENTRO"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;COELHOS"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;IBURA"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;ILHA DO LEITE"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;IMBIRIBEIRA"/>
+<field name="SECTION" destination="teste ricardo 3"/>
+<field name="SECTION" destination="teste ricardo treis"/>
+<field name="SECTION" destination=""/>
+<field name="SECTION" destination=""/>
+<field name="SECTION" destination=""/>
+<field name="SECTION" destination=""/>
+<field name="SECTION" destination=""/>
+<field name="SECTION" destination=""/>
+<field name="SECTION" destination=""/>
+<field name="SECTION" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;GALPÃO;ZUMBI"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;AFOGADOS"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;BAIRRO NOVO"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;BEBERIBE"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;BOA VIAGEM 1 OU 2 QUARTOS"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;CENTRO"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;COELHOS"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;IBURA"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;ILHA DO LEITE"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;IMBIRIBEIRA"/>
+<field name="SECTION" destination="teste ricardo 3"/>
+<field name="SECTION" destination="teste ricardo treis"/>
+<field name="SECTION" destination="Imóveis;Apartamentos Alugam-se;Bultrins"/>
+<field name="SECTION" destination="Imóveis;Apartamentos Alugam-se"/>
+<field name="SECTION" destination="Imóveis;Apartamentos Alugam-se;Boa Viagem 4 ou mais quartos"/>
+<field name="SECTION" destination="Imóveis;Apartamentos Alugam-se;Afogados"/>
+<field name="SECTION" destination="Imóveis;Apartamentos Alugam-se;Várzea"/>
+<field name="SECTION" destination="Imóveis;Apartamentos Alugam-se;Caxangá"/>
+<field name="SECTION" destination="Imóveis;Apartamentos Alugam-se;Caxangá"/>
+<field name="SECTION" destination="Imóveis;Apartamentos Alugam-se;Abreu e Lima"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;GALPÃO;ZUMBI" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;AFOGADOS" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;BAIRRO NOVO" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;BEBERIBE" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;BOA VIAGEM 1 OU 2 QUARTOS" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;CENTRO" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;COELHOS" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;IBURA" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;ILHA DO LEITE" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;IMBIRIBEIRA" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;GALPÃO;ZUMBI" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;AFOGADOS" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;BAIRRO NOVO" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;BEBERIBE" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;BOA VIAGEM 1 OU 2 QUARTOS" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;CENTRO" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;COELHOS" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;IBURA" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;ILHA DO LEITE" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;IMBIRIBEIRA" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;GALPÃO;ZUMBI" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;AFOGADOS" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;BAIRRO NOVO" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;BEBERIBE" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;BOA VIAGEM 1 OU 2 QUARTOS" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;CENTRO" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;COELHOS" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;IBURA" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;ILHA DO LEITE" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;IMBIRIBEIRA" destination=""/>
+<field/>
+<field/>
+<field/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;GALPÃO;ZUMBI" destination="teste ricardo 3"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;AFOGADOS" destination="teste ricardo treis"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;BAIRRO NOVO" destination="Imóveis;Apartamentos Alugam-se;Bultrins"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;BEBERIBE" destination="Imóveis;Apartamentos Alugam-se"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;BOA VIAGEM 1 OU 2 QUARTOS" destination="Imóveis;Apartamentos Alugam-se;Boa Viagem 4 ou mais quartos"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;CENTRO" destination="Imóveis;Apartamentos Alugam-se;Afogados"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;COELHOS" destination="Imóveis;Apartamentos Alugam-se;Várzea"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;IBURA" destination="Imóveis;Apartamentos Alugam-se;Caxangá"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;ILHA DO LEITE" destination="Imóveis;Apartamentos Alugam-se;Caxangá"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;IMBIRIBEIRA" destination="Imóveis;Apartamentos Alugam-se;Abreu e Lima"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;GALPÃO;ZUMBI" destination="Imóveis;Apartamentos Alugam-se"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;AFOGADOS" destination="Imóveis;Apartamentos Alugam-se;Derby"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;BAIRRO NOVO" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;BEBERIBE" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;BOA VIAGEM 1 OU 2 QUARTOS" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;CENTRO" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;COELHOS" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;IBURA" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;ILHA DO LEITE" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;IMBIRIBEIRA" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;IPUTINGA" destination="evio"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;OURO PRETO" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;PIEDADE" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;PORTO DE GALINHAS" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;PRAZERES" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;RECIFE" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;SAN MARTIN" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;SANTO ANTÔNIO" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;SÃO JOSÉ" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;TORRE" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;IPUTINGA" destination="evio"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;OURO PRETO" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;PIEDADE" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;PORTO DE GALINHAS" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;PRAZERES" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;RECIFE" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;SAN MARTIN" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;SANTO ANTÔNIO" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;SÃO JOSÉ" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;TORRE" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;IPUTINGA" destination="evio"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;OURO PRETO" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;PIEDADE" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;PORTO DE GALINHAS" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;PRAZERES" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;RECIFE" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;SAN MARTIN" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;SANTO ANTÔNIO" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;SÃO JOSÉ" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;TORRE" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;ZUMBI" destination="Imóveis;Apartamentos Alugam-se"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;LOJA;AFOGADOS" destination="Imóveis;Apartamentos Alugam-se;Abreu e Lima"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;LOJA;BOA VIAGEM 1 OU 2 QUARTOS" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;LOJA;SANTO ANTÔNIO" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Lojas;AFOGADOS" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Lojas;BOA VIAGEM 1 OU 2 QUARTOS" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Lojas;BOA VISTA" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Lojas;CANDEIAS" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Lojas;JARDIM PIEDADE" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Lojas;PIEDADE" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Galpões;ZUMBI" destination="Imóveis;Apartamentos Alugam-se"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;LOJA;AFOGADOS" destination="Imóveis;Apartamentos Alugam-se;Abreu e Lima"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;LOJA;BOA VIAGEM 1 OU 2 QUARTOS" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;LOJA;SANTO ANTÔNIO" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Lojas;AFOGADOS" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Lojas;BOA VIAGEM 1 OU 2 QUARTOS" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Lojas;BOA VISTA" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Lojas;CANDEIAS" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Lojas;JARDIM PIEDADE" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Lojas;PIEDADE" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Lojas;TORRE" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Pontos;BOA VIAGEM 1 OU 2 QUARTOS" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Pontos;BOA VISTA" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Pontos;CASA AMARELA" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Pontos;GRAÇAS" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Pontos;ILHA DO LEITE" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Pontos;JANGA" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Pontos;PIEDADE" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Pontos;SANTO AMARO" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Pontos;SANTO ANTÔNIO" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Lojas;TORRE" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Pontos;BOA VIAGEM 1 OU 2 QUARTOS" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Pontos;BOA VISTA" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Pontos;CASA AMARELA" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Pontos;GRAÇAS" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Pontos;ILHA DO LEITE" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Pontos;JANGA" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Pontos;PIEDADE" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Pontos;SANTO AMARO" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Pontos;SANTO ANTÔNIO" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Lojas;TORRE" destination="Imóveis;Apartamentos Alugam-se;Aflitos"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Pontos;BOA VIAGEM 1 OU 2 QUARTOS" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Pontos;BOA VISTA" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Pontos;CASA AMARELA" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Pontos;GRAÇAS" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Pontos;ILHA DO LEITE" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Pontos;JANGA" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Pontos;PIEDADE" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Pontos;SANTO AMARO" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Pontos;SANTO ANTÔNIO" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Pontos;TAMARINEIRA" destination="Imóveis;Apartamentos Alugam-se;Abreu e Lima"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;PRÉDIO;CASA CAIADA" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;STUDIO;BOA VIAGEM 1 OU 2 QUARTOS" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;TERRENO;PRAZERES" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Terrenos;CENTRO" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Terrenos;IMBIRIBEIRA" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Terrenos;JARDIM BRASIL" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Terrenos;PIEDADE" destination=""/>
+<field name="SECTION" source="IMÓVEIS;VENDEM-SE;ANDAR CORPORATIVO;SANTO ANTÔNIO" destination=""/>
+<field name="SECTION" source="IMÓVEIS;VENDEM-SE;APARTAMENTO DUPLEX;IMBIRIBEIRA" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Pontos;TAMARINEIRA" destination="Imóveis;Apartamentos Alugam-se;Abreu e Lima"/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;PRÉDIO;CASA CAIADA" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;STUDIO;BOA VIAGEM 1 OU 2 QUARTOS" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;TERRENO;PRAZERES" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Terrenos;CENTRO" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Terrenos;IMBIRIBEIRA" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Terrenos;JARDIM BRASIL" destination=""/>
+<field name="SECTION" source="IMÓVEIS;ALUGAM-SE;Terrenos;PIEDADE" destination=""/>
+<field name="SECTION" source="IMÓVEIS;VENDEM-SE;ANDAR CORPORATIVO;SANTO ANTÔNIO" destination=""/>
+<field name="SECTION" source="IMÓVEIS;VENDEM-SE;APARTAMENTO DUPLEX;IMBIRIBEIRA" destination=""/>
+<field name="SECTION" source="IMÓVEIS;VENDEM-SE;APARTAMENTO DUPLEX;PRAIA MURO ALTO" destination="Imóveis;Apartamentos Alugam-se;Abreu e Lima"/>
+<field name="SECTION" source="IMÓVEIS;VENDEM-SE;APARTAMENTO TRIPLEX;BOA VIAGEM 1 OU 2 QUARTOS" destination=""/>
+<field name="SECTION" source="IMÓVEIS;VENDEM-SE;Apartamentos;ARTHUR LUNDGREN I" destination=""/>
+<field name="SECTION" source="IMÓVEIS;VENDEM-SE;Apartamentos;CURADO II" destination=""/>
+<field name="SECTION" source="IMÓVEIS;VENDEM-SE;APARTAMENTOS;ENGENHO VELHO" destination=""/>
+<field name="SECTION" source="IMÓVEIS;VENDEM-SE;Apartamentos;FRAGOSO" destination=""/>
+<field name="SECTION" source="IMÓVEIS;VENDEM-SE;Apartamentos;JARDIM PRIMAVERA" destination=""/>
+<field name="SECTION" source="IMÓVEIS;VENDEM-SE;Apartamentos;NOSSA SENHORA DA CONCEIÇÃO" destination=""/>
+<field name="SECTION" source="IMÓVEIS;VENDEM-SE;APARTAMENTOS;PAIVA" destination=""/>
+<field name="SECTION" source="IMÓVEIS;VENDEM-SE;Apartamentos;TOQUINHO" destination=""/>
+</sectiontosection_configuration>

@@ -1,0 +1,47 @@
+
+//mauricio deixou
+
+$doc = new DOMDocument();
+        $doc->load( 'XMLFromSectionToSection.xml' );
+		
+		$arrayXmlCampos = $doc->getElementsByTagName( "field" );
+		$parent = $doc->getElementsByTagName('sectiontosection_configuration')->item(0);
+		
+        $novo = $doc->createElement('field');
+        
+        
+        $name = 'SECTION';
+        $destination = $destinations[$key];
+
+
+   foreach($sources as $key => $source) {
+        
+
+
+        //escrevendo os valores nos  atributos atributos do xml			 
+
+        $nameAtt = $doc->createAttribute('name');
+        $nameAtt->appendChild($doc->createTextNode($name));
+        $sourceAtt = $doc->createAttribute('source');
+        $sourceAtt->appendChild($doc->createTextNode($source));
+
+        $destinationAtt= $doc->createAttribute('destination');
+        $destinationAtt->appendChild($doc->createTextNode($destination));
+
+        //Adiciono os dados aos atributos
+        $novo->appendChild($nameAtt);
+        $novo->appendChild($sourceAtt);
+        $novo->appendChild($destinationAtt);
+
+        //$novo->appendChild();		   
+
+        $parent->appendChild($novo);			
+        $parent->appendChild($doc->createTextNode("\n"));
+
+    }
+
+    $doc->save('XMLFromSectionToSection.xml');
+    
+
+    // mensgaqem de retorno ao usuário
+   // var_dump( $_POST);
