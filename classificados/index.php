@@ -1,4 +1,6 @@
 <!DOCTYPE html>
+
+
 <html lang="pt_BR">
 
   <head>
@@ -16,6 +18,12 @@
     <!-- Custom styles for this template -->
     <link href="css/full-slider.css" rel="stylesheet">
 
+
+
+
+
+
+
   </head>
 
   <body>
@@ -30,27 +38,80 @@
       </button>
 
 		
-		
-	<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-      <div class="navbar-nav">
-      <a class="nav-item nav-link active" href="index.php">DE / PARA <span class="sr-only">(current)</span></a>
-      <a class="nav-item nav-link active" href="exibeXml.php">XML</a>
-	  
-    </div>	
-        
+        </div>   
     </nav>
     <!-- Page Content -->
     <section class="py-5">
+
+    <?php
+if(isset($_GET["login"]) && $_GET["login"]==true) {
+?>
+<p class="alert-success">Logado com sucesso!</p>
+<?php
+}
+?>
+<?php
+if(isset($_GET["login"]) && $_GET["login"]==false) {
+?>
+<p class="alert-danger">Usuário ou senha inválida!</p>
+<?php
+}
+?>
 	 <br>
 	 <br>
-       <h2> Lista de arquivos  </h2>
+       <h2> Bem Vindos !  </h2>
 	   <br>
+ 
 	   
-	   
-	   <ul>
-	<div>   
+	<form action="login.php" method="post">
+	  <table  align='center'>
+         <tr>
+          <td>Email</td>
+           <td><input class="form-control" type="email" name="email"></td>
+
+         </tr>  
+         <tr>
+           <td>Senha</td>
+           <td><input class="form-control" type="password" name="senha"></td>
+
+
+         </tr> 
+        
+         <tr>
+         
+             <td><button class="btn btn-primary">Login</button></td>
+
+
+         </tr>
+        
+       
+   
+
+	  </table>
+      </form>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	
 	   <?php
+
+     
 	   
 	   include 'mostra_erros.php';
 	   
@@ -88,7 +149,6 @@ echo '<table class="table">
 
 <th scope ="row"><li><a href='.$urlLeitor.' target=_blank>'.$percorre."</a><br/></li>";
 
-       // var_dump($urlLeitor);
 
  
 echo'</th>';  
